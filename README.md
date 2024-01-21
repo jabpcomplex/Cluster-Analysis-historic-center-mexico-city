@@ -16,15 +16,23 @@ Imputamos valores nulos o sin información de la base de Datos públicos del INE
 
 1. Creación de la variable de OPORTUNIDAD [1] Dicha variable se logro al identificar las manzanas que presentaron reportes de desorden social y fisico reportadas al 911. 
 
+![image](https://github.com/jabpcomplex/Cluster-Analysis-historic-center-mexico-city/assets/86539158/3c9c1e30-c44a-41f5-84c6-d8cb43b611eb)
+
 2. Creación de las variables relacionadas con la base DENUE 2020. COMERCIO, ESCUELA,MANUFACTURA, SERVICIOS, SERVICIOS PRIVADOS, TRANSPORTES, VENTA DE ALCOHOL, RESTAURANTES.
+
+![image](https://github.com/jabpcomplex/Cluster-Analysis-historic-center-mexico-city/assets/86539158/123108c1-1b8c-46af-a686-75e4fa209951)
 
 3. Análisis de Componentes Principales por sus siglas en ingles PCA sobre la base de INEGI. Para extraer las variables más cercanamente relacionadas con los tres primeros componentes principales.
 
 4. Elección del algoritmo de clustering: utilizaremos el método de k-means y k-medoids de R-studio.
 
+![image](https://github.com/jabpcomplex/Cluster-Analysis-historic-center-mexico-city/assets/86539158/0abff732-87bd-4a59-a0aa-aae57776ca9b)
+
 5 . Elección de la métrica de distancia:  La métrica utilizada será la distancia euclidiana para k-means y manhattan en k-medoids
 
 6. Elección del número de clusters por medio del método del codo
+
+![image](https://github.com/jabpcomplex/Cluster-Analysis-historic-center-mexico-city/assets/86539158/3ad7dcc5-cdd2-4629-bc35-5ad830475c85)
 
 7. Asignación de objetos a clusters: agrupación en k-clusters.
 
