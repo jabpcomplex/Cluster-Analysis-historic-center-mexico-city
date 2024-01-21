@@ -24,9 +24,9 @@ Imputamos valores nulos o sin información de la base de Datos públicos del INE
 
 3. Análisis de Componentes Principales por sus siglas en ingles PCA sobre la base de INEGI. Para extraer las variables más cercanamente relacionadas con los tres primeros componentes principales.
 
-4. Elección del algoritmo de clustering: utilizaremos el método de k-means y k-medoids de R-studio.
-
 ![image](https://github.com/jabpcomplex/Cluster-Analysis-historic-center-mexico-city/assets/86539158/0abff732-87bd-4a59-a0aa-aae57776ca9b)
+
+4. Elección del algoritmo de clustering: utilizaremos el método de k-means y k-medoids de R-studio.
 
 5 . Elección de la métrica de distancia:  La métrica utilizada será la distancia euclidiana para k-means y manhattan en k-medoids
 
@@ -87,3 +87,10 @@ En términos de la variable de OPORTUNIDAD el cluster 1 y 4 juntos, presentan en
 
 El general el cluster 4 presenta porcentajes menores en todas sus variables asociadas con respecto al cluster 1.
 
+## Bibliografia
+
+[1] Clarke, R. V. (2012). Opportunity makes the thief. Really? And so what?. Crime Science, 1, 1-9.
+
+[2] Soni, K. G., & Patel, A. (2017). Comparative Analysis of K-means and K-medoids Algorithm on IRIS Data. International Journal of Computational Intelligence Research, 13(5), 899-906.
+
+[3] https://rpubs.com/Joaquin_AR/287787
